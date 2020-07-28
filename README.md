@@ -9,7 +9,7 @@ I'm Aman, MCA student at NIT Kurukshetra. I claims myself as hardworking, quick 
 Programmer (noun): A machine that turns coffee into code.
 ```
 
-<img align="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 
 
