@@ -3,13 +3,13 @@
  
 
 
-I'm Aman, MCA student at NIT Kurukshetra. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-world problem by converting my thoughts and ideas into a working code. I have experience working with a range of different programming languages, frameworks  I am always looking for opportunities to work with innovation and creativity.
+I'm Aman, MCA student at NIT Kurukshetra. I claims myself as hardworking, quick learning ability, highly motivated in building practical skills and keen to develop understanding in IT field. I really enjoy solving real-world problem by converting my thoughts and ideas into a working code. I have experience working with a range of different programming languages, frameworks  I am always looking for opportunities to work with innovation and creativity.
 
 ```
 Programmer (noun): A machine that turns coffee into code.
 ```
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 
 
@@ -24,6 +24,7 @@ Programmer (noun): A machine that turns coffee into code.
 - ✨ I’m adaptable and transformable to learn latest technologies as per business needs
 - :computer: I optimize the application code and always maintain a good object oriented practices
 - 🌱 My hunger to learn and quick adoption of any tools and technologies makes me unique
+- 🌱 I’m currently learning : Machine Learning, App Development
 - :computer: I write code in C++ and do practice on HackerRank [https://www.hackerrank.com/sahuaman83](https://www.hackerrank.com/sahuaman83)
 - 📫 You can find me on linkedin [https://www.linkedin.com/in/sahuaman83/](https://www.linkedin.com/in/sahuaman83/)
 - 💬 Ask me about anything and everything! If I don't know maybe I will learn something new!
