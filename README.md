@@ -3,7 +3,7 @@
  
 
 
-I'm Aman, MCA student at NIT Kurukshetra. I claims myself as hardworking, quick learning ability, highly motivated in building practical skills and keen to develop understanding in IT field. I really enjoy solving real-world problem by converting my thoughts and ideas into a working code. I have experience working with a range of different programming languages, frameworks  I am always looking for opportunities to work with innovation and creativity.
+I'm Aman, MCA student at NIT Kurukshetra. I claims myself as hardworking, quick learning ability, highly motivated in building practical skills and keen to develop understanding in IT field. I really enjoy solving real-world problems by converting my thoughts and ideas into a working code. I have experience working with a range of different programming languages, frameworks  I am always looking for opportunities to work with innovation and creativity.
 
 ```
 Programmer (noun): A machine that turns coffee into code.
