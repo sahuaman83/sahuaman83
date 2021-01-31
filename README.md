@@ -49,3 +49,7 @@ Programmer (noun): A machine that turns coffee into code.
 ### Connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="6.5%"/>](https://www.linkedin.com/in/sahuaman83/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="6.5%"/>](https://www.hackerrank.com/sahuaman83) [<img src="https://img.icons8.com/fluent/48/000000/google-plus.png" width="6.5%"/>](sahuaman83@gmail.com) [<img src="https://img.icons8.com/fluent/48/000000/github.png" width="6.5%" alt="Github">](https://github.com/sahuaman83/)
+<a href="https://dev.to/sahuaman83">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aman Sahu's DEV Profile" height="60" width="60">
+</a>
+
